@@ -34,3 +34,6 @@ while True:
     if(operation_to_perform == "quit"):
         print("Exiting shopping list program!")
         break
+
+# in these cases I prefer to use a switch statement, havent gotten there in the course yet. I also dont like to use if else if statements if i can use switch so i just opted the easiest way to read for myself and anybody else
+# same goes for the first question. Please let me know if you do not like it
